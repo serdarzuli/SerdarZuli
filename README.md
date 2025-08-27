@@ -14,9 +14,3 @@ I'm a passionate and experienced IT professional with a background in Computer E
 - 👥 **Collaboration**: Excellent teamwork and collaboration abilities, gained from working closely with cross-functional teams.
 - 📈 **Project Management**: Experienced in managing and delivering successful projects, with a focus on continuous improvement and innovation.
 - 🚀 **Continuous Learner**: Enthusiastic about learning new technologies and staying updated with industry trends.
-
-## Let's Connect!
-
-I'm always open to new opportunities and collaborations. Feel free to explore my repositories, and don't hesitate to reach out if you'd like to discuss potential projects or just want to connect!
-My Portfolio: www.thezuli.com 
-Contact: https://www.linkedin.com/in/serdar-zuli-98335a183/
