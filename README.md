@@ -4,7 +4,7 @@ I'm a passionate and experienced IT professional with a background in Computer E
 
 ## About Me
 
-- 📚 **Education**: Computer Engineering graduate from Canakkale OnsekizMart university.
+- 📚 **Education**: Computer Engineering graduate from Canakkale 18's March University.
 - 🛠 **Experience**: Over three years of professional experience in the Software Engineer.
 - 🌐 **Web Development**: Expertise in building responsive and dynamic web applications using ASP .NETCORE, FLASK, DJANGO.
 - 🤖 **Artificial Intelligence**: Skilled in machine learning and deep learning with experience in TensorFlow, PyTorch, and Scikit-learn. Worked on projects involving natural language processing (NLP), computer vision, and predictive analytics.
